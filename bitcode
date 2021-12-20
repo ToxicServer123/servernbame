@@ -1,11 +1,3 @@
-wait(1.5)
-game.StarterGui:SetCore("SendNotification", {
-Title = "Storm.Tap | 1.3.0 | PRIVATE"; -- 
-Text = "Storm.Tap Has Been Injected!"; -- 
-Icon = "rbxassetid://1297630667"; -- t
-Duration = 5; -- 
-})
-
 getgenv().values = {}
 local library = {} 
 
